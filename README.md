@@ -1,4 +1,7 @@
-### Hi there 👋
+### Developer:
+| Discord bot
+| Mini apps
+| Garrys'mod 
 
 <!--
 **kepkaa/kepkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
